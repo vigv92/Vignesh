@@ -3,3 +3,5 @@ x=a-b
 x=a*c
 x=a/c
 x=pow(a,b)
+x=a%c
+
