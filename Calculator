@@ -2,5 +2,3 @@ x=a+b
 x=a-b
 x=a*c
 x=a/c
-x=a%b
-x=pow(a,b)
