@@ -4,4 +4,5 @@ x=a*c
 x=a/c
 x=pow(a,b)
 x=a%c
-
+x=sq(a)
+x=log(a)
