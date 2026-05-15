@@ -2,4 +2,8 @@ x=a+b
 x=a-b
 x=a*c
 x=a/c
+<<<<<<< HEAD
 x=pow(a,b)
+=======
+x=a%b
+>>>>>>> 9753d4a (v1 added modulus function)
